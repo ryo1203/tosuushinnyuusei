@@ -201,6 +201,9 @@ INPUT c:/w32tex/share/texmf-dist/fonts/tfm/public/cm/cmti10.tfm
 INPUT c:/w32tex/share/texmf-dist/fonts/tfm/ptex-fonts/standard/tgoth10.tfm
 INPUT c:/w32tex/share/texmf-dist/fonts/tfm/ptex-fonts/jis/jisg.tfm
 INPUT c:/w32tex/share/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm
+<<<<<<< HEAD
 INPUT c:/w32tex/share/texmf-dist/fonts/tfm/public/cm/cmss10.tfm
+=======
+>>>>>>> 059c2d1eec9a9d35f4742e44dfe14c385e824842
 OUTPUT tosuu.dvi
 INPUT tosuu.aux

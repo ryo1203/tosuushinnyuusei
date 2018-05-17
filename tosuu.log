@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 This is e-pTeX, Version 3.14159265-p3.8.0-180226-2.6 (utf8.sjis) (TeX Live 2018/W32TeX) (preloaded format=platex 2018.4.2)  17 MAY 2018 21:07
+=======
+This is e-pTeX, Version 3.14159265-p3.8.0-180226-2.6 (utf8.sjis) (TeX Live 2018/W32TeX) (preloaded format=platex 2018.4.2)  15 MAY 2018 22:00
+>>>>>>> 059c2d1eec9a9d35f4742e44dfe14c385e824842
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -413,6 +417,13 @@ LaTeX Font Info:    Try loading font information for U+rsfs on input line 16.
  (c:/w32tex/share/texmf-dist/tex/latex/jknappen/ursfs.fd
 File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
 )
+<<<<<<< HEAD
+=======
+\c@theo=\count127
+\c@defi=\count128
+\c@lemm=\count129
+\c@plob=\count130
+>>>>>>> 059c2d1eec9a9d35f4742e44dfe14c385e824842
 LaTeX Font Info:    Font shape `JT1/gt/m/n' will be
 (Font)              scaled to size 11.53198pt on input line 18.
 LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
@@ -439,6 +450,7 @@ LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
 (Font)              scaled to size 9.60999pt on input line 23.
  [1
 
+<<<<<<< HEAD
 ] [2] [3] (./tosuu.aux) ) 
 Here is how much of TeX's memory you used:
  13673 strings out of 493611
@@ -450,3 +462,16 @@ Here is how much of TeX's memory you used:
  54i,7n,73p,829b,269s stack positions out of 5000i,500n,10000p,500000b,80000s
 
 Output written on tosuu.dvi (3 pages, 12116 bytes).
+=======
+] [2] (./tosuu.aux) ) 
+Here is how much of TeX's memory you used:
+ 13665 strings out of 493611
+ 277238 string characters out of 6149885
+ 317137 words of memory out of 5000000
+ 17044 multiletter control sequences out of 15000+600000
+ 18066 words of font info for 82 fonts, out of 8000000 for 9000
+ 934 hyphenation exceptions out of 8191
+ 54i,6n,73p,829b,261s stack positions out of 5000i,500n,10000p,500000b,80000s
+
+Output written on tosuu.dvi (2 pages, 7368 bytes).
+>>>>>>> 059c2d1eec9a9d35f4742e44dfe14c385e824842

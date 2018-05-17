@@ -1,9 +1,17 @@
 # Fdb version 3
+<<<<<<< HEAD
 ["dvipdf"] 1526558852 "tosuu.dvi" "tosuu.pdf" "tosuu" 1526558858
   "tosuu.dvi" 1526558852 12116 2b4e28af420d04f09a55b8074c471b29 "latex"
   (generated)
   "tosuu.pdf"
 ["latex"] 1526558843 "tosuu.tex" "tosuu.dvi" "tosuu" 1526558858
+=======
+["dvipdf"] 1526389246 "tosuu.dvi" "tosuu.pdf" "tosuu" 1526389250
+  "tosuu.dvi" 1526389246 7368 2d09043bbdc1fe9bfeb7b9e3d0cf6765 "latex"
+  (generated)
+  "tosuu.pdf"
+["latex"] 1526389237 "tosuu.tex" "tosuu.dvi" "tosuu" 1526389250
+>>>>>>> 059c2d1eec9a9d35f4742e44dfe14c385e824842
   "c:/w32tex/share/texmf-dist/fonts/tfm/ptex-fonts/jis/jis.tfm" 1519818042 468 53f854284f6afa6c36aaa2d1090ecc12 ""
   "c:/w32tex/share/texmf-dist/fonts/tfm/ptex-fonts/jis/jisg.tfm" 1519818042 468 53f854284f6afa6c36aaa2d1090ecc12 ""
   "c:/w32tex/share/texmf-dist/fonts/tfm/ptex-fonts/standard/tgoth10.tfm" 1519818042 856 7404843a5f798859944d7973a47821d5 ""
@@ -25,7 +33,10 @@
   "c:/w32tex/share/texmf-dist/fonts/tfm/public/cm/cmr17.tfm" 1136768653 1292 296a67155bdbfc32aa9c636f21e91433 ""
   "c:/w32tex/share/texmf-dist/fonts/tfm/public/cm/cmr6.tfm" 1136768653 1300 b62933e007d01cfd073f79b963c01526 ""
   "c:/w32tex/share/texmf-dist/fonts/tfm/public/cm/cmr8.tfm" 1136768653 1292 21c1c5bfeaebccffdb478fd231a0997d ""
+<<<<<<< HEAD
   "c:/w32tex/share/texmf-dist/fonts/tfm/public/cm/cmss10.tfm" 1136768653 1316 b636689f1933f24d1294acdf6041daaa ""
+=======
+>>>>>>> 059c2d1eec9a9d35f4742e44dfe14c385e824842
   "c:/w32tex/share/texmf-dist/fonts/tfm/public/cm/cmss12.tfm" 1136768653 1324 37b971caf729d7edd9cbb9f9b0ea76eb ""
   "c:/w32tex/share/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm" 1136768653 1124 6c73e740cf17375f03eec0ee63599741 ""
   "c:/w32tex/share/texmf-dist/fonts/tfm/public/cm/cmsy6.tfm" 1136768653 1116 933a60c408fc0a863a92debe84b2d294 ""
@@ -125,8 +136,13 @@
   "c:/w32tex/share/texmf-dist/web2c/eptex/platex.fmt" 1522623713 4357249 271e9e7c19bbcb877e2455c5edb85e2f ""
   "c:/w32tex/share/texmf-dist/web2c/texmf.cnf" 1518859120 32699 6adc13c376251eb7d184d2675f4e7970 ""
   "mymacros.sty" 1526381116 322 99fda0dbd7149da904de401ffe26a953 ""
+<<<<<<< HEAD
   "tosuu.aux" 1526558852 576 39221899dbc133350b44c614a6b8994b ""
   "tosuu.tex" 1526558838 7917 28915b234b2c93c34a7f4ab2f8f7a082 ""
+=======
+  "tosuu.aux" 1526389246 297 efa6512dbcf5a32f653672934bf05b0d ""
+  "tosuu.tex" 1526389236 4856 d9b3910d6e9ba24386d45ef801f0ed0f ""
+>>>>>>> 059c2d1eec9a9d35f4742e44dfe14c385e824842
   (generated)
   "tosuu.dvi"
   "tosuu.aux"
