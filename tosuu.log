@@ -1,4 +1,4 @@
-This is e-pTeX, Version 3.14159265-p3.8.0-180226-2.6 (utf8.sjis) (TeX Live 2018/W32TeX) (preloaded format=platex 2018.4.2)  15 MAY 2018 19:55
+This is e-pTeX, Version 3.14159265-p3.8.0-180226-2.6 (utf8.sjis) (TeX Live 2018/W32TeX) (preloaded format=platex 2018.4.2)  17 MAY 2018 21:07
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -365,57 +365,88 @@ File: pgfmodulematrix.code.tex 2013/09/17  (rcs-revision 1.8)
 \tikz@expandcount=\count126
  (c:/w32tex/share/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarytopaths.code.tex
 File: tikzlibrarytopaths.code.tex 2008/06/17 v3.0.1a (rcs-revision 1.2)
-))) (./tosuu.aux)
+)))
+\c@theo=\count127
+\c@defi=\count128
+\c@lemm=\count129
+\c@plob=\count130
+\c@axio=\count131
+ (./tosuu.aux)
 \openout1 = `tosuu.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for JY1/mc/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for JT1/mc/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for JY1/mc/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for JT1/mc/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
  ABD: EveryShipout initializing macros
 LaTeX Font Info:    Font shape `JT1/mc/m/n' will be
-(Font)              scaled to size 16.60605pt on input line 11.
+(Font)              scaled to size 16.60605pt on input line 16.
 LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
-(Font)              scaled to size 16.60605pt on input line 11.
+(Font)              scaled to size 16.60605pt on input line 16.
 LaTeX Font Info:    Font shape `JT1/mc/m/n' will be
-(Font)              scaled to size 11.53198pt on input line 11.
+(Font)              scaled to size 11.53198pt on input line 16.
 LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
-(Font)              scaled to size 11.53198pt on input line 11.
+(Font)              scaled to size 11.53198pt on input line 16.
 LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
-(Font)              scaled to size 5.76599pt on input line 11.
-LaTeX Font Info:    Try loading font information for U+msa on input line 11.
+(Font)              scaled to size 5.76599pt on input line 16.
+LaTeX Font Info:    Try loading font information for U+msa on input line 16.
  (c:/w32tex/share/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 11.
+LaTeX Font Info:    Try loading font information for U+msb on input line 16.
  (c:/w32tex/share/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Try loading font information for U+rsfs on input line 11.
+LaTeX Font Info:    Try loading font information for U+rsfs on input line 16.
  (c:/w32tex/share/texmf-dist/tex/latex/jknappen/ursfs.fd
 File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
-) [1
+)
+LaTeX Font Info:    Font shape `JT1/gt/m/n' will be
+(Font)              scaled to size 11.53198pt on input line 18.
+LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
+(Font)              scaled to size 11.53198pt on input line 18.
+LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
+(Font)              scaled to size 6.72699pt on input line 20.
+LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
+(Font)              scaled to size 4.805pt on input line 20.
+LaTeX Font Info:    Font shape `JT1/mc/m/it' in size <10> not available
+(Font)              Font shape `JT1/mc/m/n' tried instead on input line 22.
+LaTeX Font Info:    Font shape `JT1/mc/m/n' will be
+(Font)              scaled to size 9.60999pt on input line 22.
+LaTeX Font Info:    Font shape `JY1/mc/m/it' in size <10> not available
+(Font)              Font shape `JY1/mc/m/n' tried instead on input line 22.
+LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
+(Font)              scaled to size 9.60999pt on input line 22.
+LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <10> not available
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 23.
+LaTeX Font Info:    Font shape `JT1/gt/m/n' will be
+(Font)              scaled to size 9.60999pt on input line 23.
+LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <10> not available
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 23.
+LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
+(Font)              scaled to size 9.60999pt on input line 23.
+ [1
 
-] (./tosuu.aux) ) 
+] [2] [3] (./tosuu.aux) ) 
 Here is how much of TeX's memory you used:
- 13615 strings out of 493611
- 276813 string characters out of 6149885
- 314137 words of memory out of 5000000
- 17001 multiletter control sequences out of 15000+600000
- 14165 words of font info for 62 fonts, out of 8000000 for 9000
+ 13673 strings out of 493611
+ 277296 string characters out of 6149885
+ 321137 words of memory out of 5000000
+ 17051 multiletter control sequences out of 15000+600000
+ 18371 words of font info for 83 fonts, out of 8000000 for 9000
  934 hyphenation exceptions out of 8191
- 54i,6n,73p,829b,244s stack positions out of 5000i,500n,10000p,500000b,80000s
+ 54i,7n,73p,829b,269s stack positions out of 5000i,500n,10000p,500000b,80000s
 
-Output written on tosuu.dvi (1 page, 692 bytes).
+Output written on tosuu.dvi (3 pages, 12116 bytes).
